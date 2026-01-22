@@ -4,7 +4,7 @@ import { Icon } from "@iconify/react";
 export default function Navbar() {
     return (
         <div className="bg-yellow-50 p-3 flex justify-around gap-3">
-            <p className="text-xl  font-bold mt-2">Dash<span className="text-red-500">bord</span></p>
+            <p className="text-xl  font-bold mt-2">Dash<span className="text-red-500">board</span></p>
         {/* Search bar */}
 <div className="relative w-full max-w-sm">
   {/* Search Input */}
